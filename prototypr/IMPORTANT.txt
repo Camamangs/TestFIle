@@ -1,0 +1,3 @@
+to run the progam must use build
+
+task do the ui dont touch the file OS
